@@ -25,5 +25,5 @@ A powerful and aesthetic **Terminal User Interface (TUI)** for real-time system 
 ### 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/system-monitor-tui.git](https://github.com/yourusername/system-monitor-tui.git)
+   git clone https://github.com/IT3chYou/MonitoringTUI.git
    cd system-monitor-tui
